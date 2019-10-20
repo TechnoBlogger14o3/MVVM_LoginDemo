@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM_LoginDemo</string>
+    <string name="str_e_mail_address">Email</string>
+    <string name="str_password">Password</string>
+    <string name="str_login">Login</string>
+    <string name="str_top_header">Simple example using MVVM, LiveData and DataBinding</string>
+    <string name="str_bottom_header">Your email id and password is below.</string>
+</resources>
